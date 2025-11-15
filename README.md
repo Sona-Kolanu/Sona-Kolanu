@@ -39,8 +39,8 @@ I’m passionate about **SAP Security & GRC Access Control** and constantly expl
 
 ## 🎓 Academic Skills (From MCA)
 - HTML, CSS  
-- Python Basics  
-- SQL Basics  
+- Python   
+- SQL   
 - Pandas (Self-written notes)  
 
 ### 📘 My Uploaded Python/Pandas Notes:
