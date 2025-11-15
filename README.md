@@ -3,7 +3,7 @@
 </p>
 
 # 👋 Hi, I'm **Sona Kolanu**
-### MCA Student | SAP Security & GRC Learner
+### SAP GRC & Security Learner | MCA Graduate | Academic Skills: HTML, CSS, Python, SQL
 
 I am passionate about **SAP Security & GRC Access Control** and spend time understanding:
 - User administration  
@@ -30,6 +30,27 @@ I am passionate about **SAP Security & GRC Access Control** and spend time under
 - BRM – Business Role Management  
 - EAM – Emergency Access Management  
 - GRC Tables & Configuration Understanding  
+- Connector Configuration & Sync Troubleshooting  
+
+---
+
+## 🎓 Academic Skills (Learned During MCA)
+- **HTML, CSS**  
+- **Python**  
+- **SQL**  
+- **Pandas (Self-written notes uploaded)**  
+
+### 📘 My Uploaded Python/Pandas Notes
+- Pandas Basics → https://github.com/Sona-Kolanu/pandas_basics.py  
+- Pandas Notes → https://github.com/Sona-Kolanu/PandasNotes.py  
+
+---
+
+## 📂 Featured Repository
+
+🔹 **SAP GRC Security Practice**  
+My complete SAP Security & GRC notes, screenshots, tables, and practice.  
+➡️ https://github.com/Sona-Kolanu/SAP-GRC-SECURITY
 
 ---
 
@@ -42,19 +63,11 @@ I am passionate about **SAP Security & GRC Access Control** and spend time under
 
 ---
 
-## 📂 Featured Repository
+## 📫 Reach Me
 
-🔹 **SAP GRC Security Practice**  
-My complete SAP Security & GRC notes, screenshots, tables, and practice.  
-➡️ https://github.com/Sona-Kolanu/SAP-GRC-SECURITY
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **sona.kolanuu@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/sonakolanu**  
-🌐 GitHub: **https://github.com/Sona-Kolanu**
+✉ **Email:** sona.kolanuu@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sonakolanu  
+🌐 **GitHub:** https://github.com/Sona-Kolanu  
 
 ---
 
